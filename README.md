@@ -1,3 +1,5 @@
+
+![logo](https://github.com/sonjoytheanalyst/sonjoytheanalyst/blob/main/github_banner.jpg)
 <h1 align="center">Hi 👋, I'm Sonjoy The Analyst</h1>
 <h3 align="center">Versatile Data analyst having expertise in data interpretation and analysis. Excellent knowledge and skill with data analysis, including SQL, Sheets and Excel, Tableau, R, and others.</h3>
 
