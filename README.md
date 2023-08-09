@@ -7,33 +7,55 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonjoytheanlyst&label=Profile%20views&color=0e75b6&style=flat" alt="sonjoytheanlyst" /> </p>
 
-- 🔭 I’m currently working on [PowerBi Projects](https://app.powerbi.com/groups/me/reports/da277097-c13d-4da0-a9f5-a509eee2ec21/ReportSection)
+![Logo](https://github-readme-stats.vercel.app/api?username=sonjoytheanalyst&&show_icons=true&title_color=ffffff&icon_color=red)
 
-- 🌱 I’m currently learning **Jupyter, Power BI**
 
-- 👯 I’m looking to collaborate on **Data Analyst**
+# Hi, I'm SONJOY! 👋
 
-- 🤝 I’m looking for help with **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sonjoytheanalyst](https://github.com/sonjoytheanalyst)
+## 🚀 About Me
+I'm a full stack Data Scientist...
 
-- 📝 I regularly write articles on [https://github.com/sonjoytheanalyst](https://github.com/sonjoytheanalyst)
+Hello everyone! 👋 I'm Sonjoy Das, a passionate and dedicated Full Stack Data Scientist. With a background in BSc amd MSc in Computer Science, I bring a unique blend of skills to the table. I am driven by the curiosity to unravel insights hidden within data and transform them into actionable solutions.
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sonjoytheanalyst.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonjoy-ranjon-das-3618851a8/)
 
-- 📫 How to reach me **sonjoytheanalyst@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sonjoy-ranjon-das-3618851a8/](https://www.linkedin.com/in/sonjoy-ranjon-das-3618851a8/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sonjoy ranjon das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonjoy ranjon das" height="30" width="40" /></a>
-<a href="https://fb.com/csesanjoy1@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="csesanjoy1@gmail.com" height="30" width="40" /></a>
-</p>
+## 🛠 Skills
+1. Python 
+2. Machine Learning
+3. Deep Learning
+4. Data Science
+5. NLP
+6. Flask
+7. Streamlit
+8. Cloud Deploymeny
+9. Pycharm
+10. Data Analysis
+11. PowerBi
+12. Tableau
+13. SQL
+14. MS-Excel
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonjoytheanlyst&show_icons=true&locale=en&layout=compact" alt="sonjoytheanlyst" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonjoytheanlyst&show_icons=true&locale=en" alt="sonjoytheanlyst" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonjoytheanlyst&" alt="sonjoytheanlyst" /></p>
+## Summary of My Journey
+👩‍💻 Started as Data Analyst Project with SQl and ms-excel
+
+🧠 BSC in Computer Science In Bangladesh
+
+👯‍♀️ MSc in Cyber Security Northumbria University,London. First class with Distinction
+
+🤔 I'm looking for Data Scintist Role..
+
+💬 Ask me about...
+
+📫 How to reach me...
+
+😄 Pronouns...
+
+⚡️ Fun fact...
+
